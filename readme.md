@@ -13,3 +13,5 @@ how to run:
 run args:
  - `-badguy` - will starts/ends match by cycling game coordinator
  - `-reboot 12` - reboot script every 12minutes, needs `npm i forever`
+
+game sprites and minified scripts: `https://yadi.sk/d/AwtcMtzlurD6XQ`
